@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.env
+.env.local
+.env.*.local
+.pnpm-debug.log*
+
+# Expo (React Native)
+.expo/
+.expo-shared/
+web-build/
+*.jks
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Optional - if you build .apk or .ipa files
+*.apk
+*.ipa
+
+# Metro cache
+metro-cache/
